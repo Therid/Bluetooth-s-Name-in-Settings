@@ -1,0 +1,16 @@
+Package: com.alex.bluetoothname
+
+Name: Bluetooth's Name in Settings
+
+Depends: mobilesubstrate
+
+Version: 1.1
+Architecture: iphoneos-arm
+
+Description: The Name of your Bluetooth Device!
+
+Maintainer: Alexandre
+
+Author: Alexandre
+
+Section: Tweaks
